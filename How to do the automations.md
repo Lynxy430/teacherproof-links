@@ -18,4 +18,4 @@ now to back to settings and for single tap you will choose the shortcut you just
 
 For the fourth automation you will choose Teacherproof but you will choose when turning off and run immediately. Now choose the AssistiveTouch Off shortcut cause you dont need it when not using the mode
 
-And as far as that it should be good
+To change the app opening with the AssistiveTouch, Go to Settings,Touch,AssistiveTouch and single tap. Now you should have at least 2 Open App Shortcuts, both for different apps and just click on the other Open App shortcut
